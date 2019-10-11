@@ -16,6 +16,8 @@ truffle compile, test, deploy
 
 ### Ropsten testnet
 
+Coming soon...
+
 https://supply-chain.web.app/<br/>
 *requires a browser with Web3 Provider, like MetaMask, and an account with some test Eth on Ropsten testnet.
 
