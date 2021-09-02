@@ -10,7 +10,7 @@
     "bs58": "^4.0.1",
     "customize-cra": "^0.2.13",
     "firebase": "^6.2.2",
-    "immer": "^3.1.2",
+    "immer": "^9.0.6",
     "ipfs-http-client": "^32.0.1",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
